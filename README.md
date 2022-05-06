@@ -26,7 +26,7 @@ https://t.me/moi_bot_lists
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itz-mst-boy/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itz-mst-boy/Filerename)
 
 # Required Strings :-
 
