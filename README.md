@@ -34,7 +34,7 @@ https://t.me/moi_bot_lists
 
 * -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
-* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
+* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org)**
 
 ## Credits, and Thanks to Beloved Developers ;
 
