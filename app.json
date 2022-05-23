@@ -8,7 +8,7 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/Pdfrenamebot",
+  "success_url": "https://t.me/itz_mst_boy",
   "website": "https://github.com/itz-mst-boy",
   "repository": "https://github.com/itz-mst-boy/Filerename",
   "env": {
@@ -22,7 +22,7 @@
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your channel Username (without @).. Also Make The Bot Admin In That Channel!! ",
-      "value": ""
+      "value": "mukhushi_official"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
