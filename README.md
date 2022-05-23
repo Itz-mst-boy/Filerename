@@ -4,12 +4,12 @@ https://t.me/moi_bot_lists
 
 <p align="center">
   <a href="https://github.com/itz-mst-boy/FileRename">
-    <img src="https://img.shields.io/github/stars/itz-mst-boy/FileRenameBot?style=social">
+    <img src="https://img.shields.io/github/stars/itz-mst-boy/FileRename?style=social">
 
   </a>
   
-  <a href="https://github.com/itz-mst-boy/FileRenameBot/fork">
-    <img src="https://img.shields.io/github/forks/itz-mst-boy/FileRenameBot?label=Fork&style=social">
+  <a href="https://github.com/itz-mst-boy/FileRename/fork">
+    <img src="https://img.shields.io/github/forks/itz-mst-boy/FileRename?label=Fork&style=social">
 
   </a>  
 </p>
