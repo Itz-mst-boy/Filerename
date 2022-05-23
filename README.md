@@ -3,7 +3,7 @@ https://t.me/moi_bot_lists
 # - File Rename Bot
 
 <p align="center">
-  <a href="https://github.com/itz-mst-boy/FileRenameBot">
+  <a href="https://github.com/itz-mst-boy/FileRename">
     <img src="https://img.shields.io/github/stars/itz-mst-boy/FileRenameBot?style=social">
 
   </a>
